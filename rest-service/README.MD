@@ -20,5 +20,3 @@
     + 包含main()方法
     + 添加类注解@SpringBootApplication
     + 通过SpringApplication.run(Start.class, args);启动
-    
- 
